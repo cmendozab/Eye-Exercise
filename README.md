@@ -4,45 +4,32 @@ This is an exercise for an eye animation that follows the mouse movement around 
 After some ☕ and some 🍎 this is the outcome.
 
 # Name:
-> Real-Time-Bus-Tracker. 
-
-A more appropiate name would be Tracker Map Animation.
+> Eye-Exercise. 
 
 # Description: 
 > Short project description. 
 
-In this project, it is shown a travel route starting from Cancun, Mexico and going to several cities / countries in South America. This is an exercise of map animation. The animation is thus depicting a travel from different countries. 
-
-An animated red icon is displayed and moved along the map to indicate each position. The animation starts after you click the button on the top portion of the map/screen.
-If you want to watch the animation again then reload the page and click the button again. In here, the icon has been also changed from its original blue color.
-
-It is recommended to view the map in full screen size for better experience.
-
-I also changed the color of the button, its text, and font size as well as its background color.
+In this project a pair of eyes appear at the center of the webpage. The eyes will track your mouse pointer as you move it across the webpage. Your mouse pointer must be inside the webpage area to be detected by the tracking eyes. Try it out for yourself and have fun!
 
 # Installation: 
 > There is nothing to install in here.
 
-If you want to test this project you will to download the .html, .js, and .css files to your computer. 
-
-Additionally, you will require to go to https://www.mapbox.com/, register and generate an Access Token. This access need to be inserted in the .js file at: mapboxgl.accessToken = '<<INSERT ACCESS TOKEN HERE>>'.
-  
-Once this has been completed, you only need to click on the .html file and click on the big button on the map to start the animation.
+If you want to test this project you will to download the .html, .js, and .css files to your computer. Make sure the three files are located in the same folder.
 
 # Usage: 
-> Make sure you have already included your own ACESS TOKEN from MapBox from the previous step.
+> It is actually very simple.
 
-Once you have your access token included in the .js file you only require to open the .html file and click on the big button at the top left portion of the webpage.
+Once you finish downloaded all the project files, you only need to click on the .html file and start moving your mouse pointer across the webpage.
 
 # Support: 
-> For additional support below is my email. Include the title in your email "Help Animated Map Tracker".
+> For additional support below is my email. Include the title in your email "Help Eye-Tracker-Exercise".
 
 Contact me at: christian.mendozab@gmail.com
 
 # Roadmap: 
 > Future features
 
-In the future I would like to add real-time data to maps.
+In the future I would like to add behaviour changes shown by the eyes in relation to user actions.
 
 # License information: 
 > MIT License
