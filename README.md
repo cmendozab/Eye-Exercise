@@ -3,10 +3,11 @@ This is an exercise for an eye animation that follows the mouse movement around 
 
 After some ☕ and some 🍎 this is the outcome.
 
+Full-Stack Web Development Programming Certificate (MERN) from MIT xPro.
+
 # Name:
 > Eye-Exercise. 
 
-Full-Stack Web Development Programming Certificate (MERN) from MIT xPro.
 
 # Description: 
 > Short project description. 
